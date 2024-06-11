@@ -1,0 +1,288 @@
+/* CSS Document */
+.titulo1 {
+	font-family: Arial;
+	color: #FFFFFF;
+	font-weight: bold;
+}
+
+.letra1 {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+.letra2 {
+
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666666;
+}
+.letraerror {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FF0000;
+}
+.letraerror2 {
+	font-family: Arial;
+	font-size: 12px;
+	color: #FF0000;
+}
+.letraiderror {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+        background-color: #FF0000;
+}
+.reg a:active {
+	text-decoration: none;
+	color: #ffffff;
+	border-bottom-style: none;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+.reg a:visited {
+	text-decoration: none;
+	color: #FFFFFF;
+	border-bottom-style: none;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+
+.reg a:link {
+	text-decoration: none;
+	color: #FFFFFF;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+.reg a:hover {
+	color: #006666;
+	font-family: Arial;
+	font-size: 12px;
+}
+.letraverde {
+
+
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	color: #004E02;
+}
+.letra3 {
+
+
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	color: #666666;
+}
+
+.letra7 {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	color: #FFC956;
+}
+
+
+.lnk a:active {
+	text-decoration: none;
+	color: #999999;
+	border-bottom-style: none;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+.lnk a:visited {
+	text-decoration: none;
+	color: #999999;
+	border-bottom-style: none;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+
+.lnk a:link {
+	text-decoration: none;
+	color: #999999;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+.lnk a:hover {
+	color: #000000;
+	font-family: Arial;
+	font-size: 12px;
+}
+.letra4 {
+
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	color: #FFFFFF;
+}
+.letra5 {
+	font-family: Arial;
+	font-size: 9px;
+	font-weight: normal;
+	color: #000000;
+}
+.letratitulo {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	color: #000000;
+}
+.letra6 {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: normal;
+	color: #555555;
+}
+.letra6bold {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #000000;
+}
+
+.letra6boldblanca {
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #ffffff;
+}
+
+
+.letratituloblanco {
+	font-family: Arial;
+	font-size: 14px;
+	font-weight: bold;
+	color: #FFFFFF;
+}
+
+.lnk2 a:active {
+	text-decoration: none;
+	border-bottom-style: none;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	color: #666666;	
+}
+
+.lnk2 a:visited {
+	text-decoration: none;
+	color: #666666;
+	border-bottom-style: none;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+}
+
+
+.lnk2 a:link {
+	text-decoration: none;
+	color: #666666;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	border-bottom-style: none;
+}
+
+.lnk2 a:hover {
+	color: #000000;
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bold;
+	border-bottom-style: none;
+}
+.letraimp {
+
+	font-family: Arial;
+	font-size: 9px;
+	font-weight: normal;
+	color: #000000;
+}
+.letra6Bold {
+
+	font-family: Arial;
+	font-size: 12px;
+	font-weight: bolder;
+	color: #000000;
+}
+.error {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 10px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #CC0000;
+}
+
+.propord a:visited {
+	text-decoration: none;
+	color: #000000;
+	border-bottom-style: none;
+  font-weight: bold;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+
+.propord a:link {
+	text-decoration: none;
+	color: #000000;
+  font-weight: bold;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+.propord a:hover {
+	color: #006666;
+  font-weight: bold;
+	font-family: Arial;
+	font-size: 12px;
+}
+
+.cartelerror {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bold;
+	color: #FFFFFF;
+	background-color: #CC0000;
+}
+.lnk3 a:active {
+	text-decoration: none;
+	color: #999999;
+	border-bottom-style: none;
+	font-family: Arial;
+	font-size: 14px;
+}
+
+.lnk3 a:visited {
+	text-decoration: none;
+	color: #999999;
+	border-bottom-style: none;
+	font-family: Arial;
+	font-size: 14px;
+}
+
+
+.lnk3 a:link {
+	text-decoration: none;
+	color: #eeeeee;
+	font-family: Arial;
+	font-size: 14px;
+}
+
+.lnk3 a:hover {
+	color: #000000;
+	font-family: Arial;
+	font-size: 14px;
+}
+
+

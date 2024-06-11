@@ -1,0 +1,1 @@
+2024-04-10 18:29:59 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2024-04-10 18:29:58', 1, 1, 'Login Sistema', 'Ingreso al sistema', 0)

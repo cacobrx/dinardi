@@ -1,0 +1,8 @@
+2023-10-09 12:41:38 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-10-09 12:41:38', 1, 1, 'Login Sistema', 'Ingreso al sistema', 0)
+2023-10-09 14:55:33 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-10-09 14:55:33', 1, 1, 'Login Sistema', 'Ingreso al sistema', 0)
+2023-10-09 14:59:50 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-10-09 14:59:50', 1, 1, 'Login Sistema', 'Ingreso al sistema', 0)
+2023-10-09 15:54:53 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-10-09 15:54:53', 1, 1, 'Login Sistema', 'Ingreso al sistema', 0)
+2023-10-09 15:55:20 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-10-09 15:55:20', 1, 1, 'Login Sistema', 'Ingreso al sistema', 0)
+2023-10-09 15:55:45 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-10-09 15:55:45', 1, 1, 'Login Sistema', 'Ingreso al sistema', 0)
+2023-10-09 15:55:56 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-10-09 15:55:56', 1, 1, 'Login Sistema', 'Ingreso al sistema', 0)
+2023-10-09 16:09:28 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-10-09 16:09:28', 1, 1, 'Login Sistema', 'Ingreso al sistema', 0)

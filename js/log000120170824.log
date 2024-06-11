@@ -1,0 +1,410 @@
+2017-08-24 09:59:47 delete from adm_fis where id=216
+2017-08-24 09:59:47 delete from adm_fis_det where idfis=216
+2017-08-24 09:59:47 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 09:59:47', 3, 1, 'Comprobantes', 'Elimina Comprobante: 216 | F | A | 2 | 0')
+2017-08-24 09:59:50 delete from adm_fis where id=217
+2017-08-24 09:59:50 delete from adm_fis_det where idfis=217
+2017-08-24 09:59:50 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 09:59:50', 3, 1, 'Comprobantes', 'Elimina Comprobante: 217 | F | A | 2 | 0')
+2017-08-24 09:59:53 delete from adm_fis where id=218
+2017-08-24 09:59:53 delete from adm_fis_det where idfis=218
+2017-08-24 09:59:53 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 09:59:53', 3, 1, 'Comprobantes', 'Elimina Comprobante: 218 | F | A | 2 | 0')
+2017-08-24 09:59:55 delete from adm_fis where id=219
+2017-08-24 09:59:55 delete from adm_fis_det where idfis=219
+2017-08-24 09:59:55 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 09:59:55', 3, 1, 'Comprobantes', 'Elimina Comprobante: 219 | F | A | 2 | 0')
+2017-08-24 09:59:58 delete from adm_fis where id=220
+2017-08-24 09:59:58 delete from adm_fis_det where idfis=220
+2017-08-24 09:59:58 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 09:59:58', 3, 1, 'Comprobantes', 'Elimina Comprobante: 220 | F | A | 2 | 0')
+2017-08-24 10:00:00 delete from adm_fis where id=221
+2017-08-24 10:00:00 delete from adm_fis_det where idfis=221
+2017-08-24 10:00:00 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:00:00', 3, 1, 'Comprobantes', 'Elimina Comprobante: 221 | F | A | 2 | 0')
+2017-08-24 10:00:02 delete from adm_fis where id=222
+2017-08-24 10:00:02 delete from adm_fis_det where idfis=222
+2017-08-24 10:00:02 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:00:02', 3, 1, 'Comprobantes', 'Elimina Comprobante: 222 | F | A | 2 | 0')
+2017-08-24 10:00:04 delete from adm_fis where id=223
+2017-08-24 10:00:04 delete from adm_fis_det where idfis=223
+2017-08-24 10:00:04 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:00:04', 3, 1, 'Comprobantes', 'Elimina Comprobante: 223 | F | A | 2 | 0')
+2017-08-24 10:00:07 delete from adm_fis where id=225
+2017-08-24 10:00:07 delete from adm_fis_det where idfis=225
+2017-08-24 10:00:07 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:00:07', 3, 1, 'Comprobantes', 'Elimina Comprobante: 225 | F | A | 2 | 0')
+2017-08-24 10:00:08 delete from adm_fis where id=226
+2017-08-24 10:00:08 delete from adm_fis_det where idfis=226
+2017-08-24 10:00:08 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:00:08', 3, 1, 'Comprobantes', 'Elimina Comprobante: 226 | F | A | 2 | 0')
+2017-08-24 10:00:10 delete from adm_fis where id=227
+2017-08-24 10:00:10 delete from adm_fis_det where idfis=227
+2017-08-24 10:00:10 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:00:10', 3, 1, 'Comprobantes', 'Elimina Comprobante: 227 | F | A | 2 | 0')
+2017-08-24 10:00:12 delete from adm_fis where id=228
+2017-08-24 10:00:12 delete from adm_fis_det where idfis=228
+2017-08-24 10:00:12 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:00:12', 3, 1, 'Comprobantes', 'Elimina Comprobante: 228 | F | A | 2 | 0')
+2017-08-24 10:00:14 delete from adm_fis where id=229
+2017-08-24 10:00:14 delete from adm_fis_det where idfis=229
+2017-08-24 10:00:14 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:00:14', 3, 1, 'Comprobantes', 'Elimina Comprobante: 229 | F | A | 2 | 0')
+2017-08-24 10:00:16 delete from adm_fis where id=230
+2017-08-24 10:00:16 delete from adm_fis_det where idfis=230
+2017-08-24 10:00:16 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:00:16', 3, 1, 'Comprobantes', 'Elimina Comprobante: 230 | F | A | 2 | 0')
+2017-08-24 10:00:18 delete from adm_fis where id=231
+2017-08-24 10:00:18 delete from adm_fis_det where idfis=231
+2017-08-24 10:00:18 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:00:18', 3, 1, 'Comprobantes', 'Elimina Comprobante: 231 | F | A | 2 | 0')
+2017-08-24 10:00:22 delete from adm_fis where id=233
+2017-08-24 10:00:22 delete from adm_fis_det where idfis=233
+2017-08-24 10:00:22 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:00:22', 3, 1, 'Comprobantes', 'Elimina Comprobante: 233 | F | A | 2 | 0')
+2017-08-24 10:00:31 delete from adm_fis where id=232
+2017-08-24 10:00:31 delete from adm_fis_det where idfis=232
+2017-08-24 10:00:31 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:00:31', 3, 1, 'Comprobantes', 'Elimina Comprobante: 232 | F | B | 2 | 0')
+2017-08-24 10:00:34 delete from adm_fis where id=206
+2017-08-24 10:00:34 delete from adm_fis_det where idfis=206
+2017-08-24 10:00:34 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:00:34', 3, 1, 'Comprobantes', 'Elimina Comprobante: 206 | F | B | 2 | 0')
+2017-08-24 10:00:37 delete from adm_fis where id=224
+2017-08-24 10:00:37 delete from adm_fis_det where idfis=224
+2017-08-24 10:00:37 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:00:37', 3, 1, 'Comprobantes', 'Elimina Comprobante: 224 | F | B | 2 | 0')
+2017-08-24 10:00:39 delete from adm_fis where id=214
+2017-08-24 10:00:39 delete from adm_fis_det where idfis=214
+2017-08-24 10:00:39 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:00:39', 3, 1, 'Comprobantes', 'Elimina Comprobante: 214 | F | B | 2 | 0')
+2017-08-24 10:05:12 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:05:12', 3, 1, 'Comprobantes', 'Modifica Comprobante: F A 1 3 EUROAMERICA SA ')
+2017-08-24 10:05:12 update adm_fis set idcli=1, fecha='2017-08-04', total=0, netori21=0, netori10=0, netocf21=0, netocf10=0, ivari21=0, ivari10=0, ivacf21=0, ivacf10=0, tipo='F', letra='A', ptovta=2, numero=3, imprimir=1, docreferencia=0, tipopago=1, nrocuit='0', condicioniva=1, numerocae='67317405538092', cliente='EUROAMERICA SA ', direccion=' ', ciudad=' ', idcuit=1 where id=24
+2017-08-24 10:05:12 delete from adm_fis_det where idfis=24
+2017-08-24 10:05:12 update adm_fis set fechacae='2017-08-14' where id=24
+2017-08-24 10:05:12 update adm_fis set fechaperini='2017-07-01' where id=24
+2017-08-24 10:05:12 update adm_fis set fechaperfin='2017-07-31' where id=24
+2017-08-24 10:05:12 insert into adm_fis_det (centro, cantidad, detalle, precio, idfis, alicuota) values (1, 2.00, 'ALQUILER DE BAÑO PORTATIL MES DE JULIO', 786.50, 24, 21.00)
+2017-08-24 10:05:12 insert into adm_fis_det (centro, cantidad, detalle, precio, idfis, alicuota) values (1, 8.00, 'SERVICIO DE LIMPIEZA ', 205.70, 24, 21.00)
+2017-08-24 10:12:28 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:12:28', 1, 1, 'Comprobantes', 'Modifica Comprobante: F A 1 3 EUROAMERICA SA ')
+2017-08-24 10:12:28 update adm_fis set idcli=15, fecha='2017-08-04', total=0, netori21=0, netori10=0, netocf21=0, netocf10=0, ivari21=0, ivari10=0, ivacf21=0, ivacf10=0, tipo='F', letra='A', ptovta=2, numero=3, imprimir=1, docreferencia=0, tipopago=1, nrocuit='33627794369', condicioniva=3, numerocae='67317405538092', cliente='EUROAMERICA SA ', direccion=' ', ciudad='CAMPANA', idcuit=1 where id=24
+2017-08-24 10:12:28 delete from adm_fis_det where idfis=24
+2017-08-24 10:12:28 update adm_fis set fechacae='2017-08-14' where id=24
+2017-08-24 10:12:28 update adm_fis set fechaperini='2017-07-01' where id=24
+2017-08-24 10:12:28 update adm_fis set fechaperfin='2017-07-31' where id=24
+2017-08-24 10:12:28 insert into adm_fis_det (centro, cantidad, detalle, precio, idfis, alicuota) values (1, 2.00, 'ALQUILER DE BAÑO PORTATIL MES DE JULIO', 786.50, 24, 21.00)
+2017-08-24 10:12:28 insert into adm_fis_det (centro, cantidad, detalle, precio, idfis, alicuota) values (1, 8.00, 'SERVICIO DE LIMPIEZA ', 205.70, 24, 21.00)
+2017-08-24 10:13:44 update tmp_fis_det set cantidad=cantidad+2.00 where id=1
+2017-08-24 10:13:44 update tmp_fis_det set cantidad=cantidad+2.00 where id=3
+2017-08-24 10:13:44 update tmp_fis_det set cantidad=cantidad+2.00 where id=3
+2017-08-24 10:13:44 update tmp_fis_det set cantidad=cantidad+2.00 where id=3
+2017-08-24 10:13:44 update tmp_fis_det set cantidad=cantidad+2.00 where id=3
+2017-08-24 10:13:44 update tmp_fis set total=37670, netocf21=0, netori21=31132.231404959, ivacf21=0, ivari21=6537.7685950413 where id=1
+2017-08-24 10:13:44 update tmp_fis set total=22950, netocf21=0, netori21=18966.94214876, ivacf21=0, ivari21=3983.0578512397 where id=2
+2017-08-24 10:13:44 update tmp_fis set total=680, netocf21=0, netori21=561.98347107438, ivacf21=0, ivari21=118.01652892562 where id=3
+2017-08-24 10:13:44 update tmp_fis set total=4800, netocf21=0, netori21=3966.9421487603, ivacf21=0, ivari21=833.05785123967 where id=4
+2017-08-24 10:13:44 update tmp_fis set total=7000, netocf21=0, netori21=5785.1239669421, ivacf21=0, ivari21=1214.8760330579 where id=5
+2017-08-24 10:13:44 update tmp_fis set total=0, netocf21=0, netori21=0, ivacf21=0, ivari21=0 where id=6
+2017-08-24 10:13:44 update tmp_fis set total=8000, netocf21=0, netori21=6611.5702479339, ivacf21=0, ivari21=1388.4297520661 where id=7
+2017-08-24 10:13:44 update tmp_fis set total=3170, netocf21=0, netori21=2619.8347107438, ivacf21=0, ivari21=550.1652892562 where id=8
+2017-08-24 10:13:44 update tmp_fis set total=0, netocf21=32727.272727273, netori21=0, ivacf21=6872.7272727273, ivari21=0 where id=9
+2017-08-24 10:13:44 update tmp_fis set total=0, netocf21=0, netori21=0, ivacf21=0, ivari21=0 where id=10
+2017-08-24 10:13:44 update tmp_fis set total=0, netocf21=0, netori21=0, ivacf21=0, ivari21=0 where id=11
+2017-08-24 10:13:44 update tmp_fis set total=0, netocf21=0, netori21=0, ivacf21=0, ivari21=0 where id=12
+2017-08-24 10:13:44 update tmp_fis set total=0, netocf21=0, netori21=0, ivacf21=0, ivari21=0 where id=13
+2017-08-24 10:13:44 update tmp_fis set total=0, netocf21=0, netori21=0, ivacf21=0, ivari21=0 where id=14
+2017-08-24 10:13:44 update tmp_fis set total=0, netocf21=0, netori21=0, ivacf21=0, ivari21=0 where id=15
+2017-08-24 10:13:44 update tmp_fis set total=0, netocf21=0, netori21=0, ivacf21=0, ivari21=0 where id=16
+2017-08-24 10:13:44 update tmp_fis set total=0, netocf21=0, netori21=0, ivacf21=0, ivari21=0 where id=17
+2017-08-24 10:13:44 update tmp_fis set total=100, netocf21=0, netori21=82.644628099174, ivacf21=0, ivari21=17.355371900826 where id=18
+2017-08-24 10:13:44 update tmp_fis set total=0, netocf21=0.82644628099174, netori21=0, ivacf21=0.17355371900826, ivari21=0 where id=19
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-04', 7, 'F', 2, 0,1, 'A', 1, 1, 3, '33715477799', 'CARTELLONE UTE ', '', 'RUTA Nº 7', 1, 37670.00, 31132.23, 0.00, 0.00, 0.00, 6537.77, 0.00, 0.00, 0.00, '5eb1a3adf99ef17068a311f40ec11109')
+2017-08-24 10:13:44 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (43.00, 1, 'ALQUILER DE BAÑO PORTATIL MES DE JULIO', 21, 650.00, 235, '5eb1a3adf99ef17068a311f40ec11109')
+2017-08-24 10:13:44 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (54.00, 2, 'SERVICIO DE LIMPIEZA 03/07/2017 VALE Nº1051', 21, 180.00, 235, '5eb1a3adf99ef17068a311f40ec11109')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 235, 28, '5eb1a3adf99ef17068a311f40ec11109')
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-04', 15, 'F', 2, 0,1, 'A', 1, 1, 3, '33627794369', 'EUROAMERICA SA ', '', 'CAMPANA', 1, 22950.00, 18966.94, 0.00, 0.00, 0.00, 3983.06, 0.00, 0.00, 0.00, '873124b69d7db133aa5621d7b176d229')
+2017-08-24 10:13:44 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (135.00, 2, 'SERVICIO DE LIMPIEZA 05/07/2017 VALE Nº1076', 21, 170.00, 236, '873124b69d7db133aa5621d7b176d229')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 236, 33, '873124b69d7db133aa5621d7b176d229')
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 9, 'F', 2, 0,1, 'A', 1, 1, 3, '30712553401', 'GUERCI Y ASOCIADOS SRL ', '', 'CARMEN DE ARECO', 1, 680.00, 561.98, 0.00, 0.00, 0.00, 118.02, 0.00, 0.00, 0.00, '0e17528ac3ebeb75c43218f4fc0c732f')
+2017-08-24 10:13:44 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (1.00, 1, 'ALQUILER DE BAÑO PORTATIL MES DE AGOSTO', 21, 680.00, 237, '0e17528ac3ebeb75c43218f4fc0c732f')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 237, 20, '0e17528ac3ebeb75c43218f4fc0c732f')
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 18, 'F', 2, 0,1, 'A', 1, 1, 3, '30708764481', 'HORMETAL SA ', '', 'PAPELERA SAN ANDRES DE GILES', 1, 4800.00, 3966.94, 0.00, 0.00, 0.00, 833.06, 0.00, 0.00, 0.00, '6688a9f7a655866439ca789edf5d2ac1')
+2017-08-24 10:13:44 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (30.00, 2, 'SERVICIO DE LIMPIEZA 03/07/2017 VALE Nº1058', 21, 160.00, 238, '6688a9f7a655866439ca789edf5d2ac1')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 238, 16, '6688a9f7a655866439ca789edf5d2ac1')
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 6, 'F', 2, 0,1, 'A', 1, 1, 3, '30568457451', 'SACDE SA ', '', 'SAN ANTONIO DE ARECO', 1, 7000.00, 5785.12, 0.00, 0.00, 0.00, 1214.88, 0.00, 0.00, 0.00, '93c64ba4ec116263fbb961868882313f')
+2017-08-24 10:13:44 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (7.00, 1, 'ALQUILER DE BAÑO PORTATIL EN TRAILER', 21, 1000.00, 239, '93c64ba4ec116263fbb961868882313f')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 239, 24, '93c64ba4ec116263fbb961868882313f')
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 44, 'F', 2, 0,1, 'A', 1, 1, 3, '30643445510', 'LINCE SEGURIDAD ', '', 'RUTA Nº 8', 1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 'd1ce91624aff9839eb91d9d19991a36b')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 240, 19, 'd1ce91624aff9839eb91d9d19991a36b')
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 16, 'F', 2, 0,1, 'A', 1, 1, 3, '30590203056', 'PAPELERA SAN ANDRES DE GILES SA ', '', 'SAN ANDRES DE GILES', 1, 8000.00, 6611.57, 0.00, 0.00, 0.00, 1388.43, 0.00, 0.00, 0.00, 'fadc21967211b892059a589bd565845b')
+2017-08-24 10:13:44 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (32.00, 2, 'SERVICIO DE LIMPIEZA 03/07/2017 VALE Nº1059', 21, 250.00, 241, 'fadc21967211b892059a589bd565845b')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 241, 15, 'fadc21967211b892059a589bd565845b')
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 21, 'F', 2, 0,1, 'A', 1, 1, 3, '30709107123', 'POSE SA ', '', 'ARRECIFES', 1, 3170.00, 2619.83, 0.00, 0.00, 0.00, 550.17, 0.00, 0.00, 0.00, '6973a3d6c9550dc9f4e761718672e44c')
+2017-08-24 10:13:44 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (2.00, 1, 'ALQUILER DE BAÑO PORTATIL MES DE JULIO', 21, 600.00, 242, '6973a3d6c9550dc9f4e761718672e44c')
+2017-08-24 10:13:44 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (1.00, 1, 'ALQUILER DE BAÑO PORTATIL ALQUILER EN TRAILER', 21, 850.00, 242, '6973a3d6c9550dc9f4e761718672e44c')
+2017-08-24 10:13:44 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (8.00, 2, 'SERVICIO DE LIMPIEZA 06/07/2017 VALE Nº1093', 21, 140.00, 242, '6973a3d6c9550dc9f4e761718672e44c')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 242, 17, '6973a3d6c9550dc9f4e761718672e44c')
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 23, 'F', 2, 0,1, 'B', 1, 1, 2, '30999000947', 'MUNICIPALIDAD DE LUJAN ', '', 'LUJAN', 1, 0.00, 0.00, 0.00, 32727.27, 0.00, 0.00, 0.00, 6872.73, 0.00, '17867def18867fa2e0a55c9ddb44d30c')
+2017-08-24 10:13:44 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (33.00, 1, 'ALQUILER DE BAÑO PORTATIL PARA EVENTO PEREGRINACION BOLIVIANA', 21, 1200.00, 243, '17867def18867fa2e0a55c9ddb44d30c')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 243, 78, '17867def18867fa2e0a55c9ddb44d30c')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 243, 81, '17867def18867fa2e0a55c9ddb44d30c')
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 17, 'F', 2, 0,1, 'A', 1, 1, 3, '30502888419', 'SUPERCEMENTO SAIC ', '', 'RUTA Nº 8', 1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, '54b451627534069ed3152cf528313b61')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 244, 64, '54b451627534069ed3152cf528313b61')
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 54, 'F', 2, 0,1, 'A', 1, 1, 3, '33518206759', 'TERZA SA ', '', 'PARQUE IND. PILAR', 1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, '7ce48e56eb3304c155852807f4579377')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 245, 49, '7ce48e56eb3304c155852807f4579377')
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 68, 'F', 2, 0,1, 'A', 1, 1, 3, '33518206759', 'TERZA SA ', 'SAN A. DE ARECO', 'RAMIREZ Y FELIPE LLAMOSAS', 1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, '78dcf924deb24767e46c3f2b2ad06ea5')
+2017-08-24 10:13:44 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (1.00, 1, 'ALQUILER DE BAÑO PORTATIL PARA OBRA', 21, 0.00, 246, '78dcf924deb24767e46c3f2b2ad06ea5')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 246, 74, '78dcf924deb24767e46c3f2b2ad06ea5')
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 12, 'F', 2, 0,1, 'A', 1, 1, 3, '33518206759', 'TERZA SA ', '', 'SAN ANTONIO DE ARECO', 1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 'c0ee656efffc1a929d4bb4d6d6c474df')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 247, 25, 'c0ee656efffc1a929d4bb4d6d6c474df')
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 10, 'F', 2, 0,1, 'A', 1, 1, 3, '30711269963', 'VERELLEN HNOS. SRL ', '', 'COMARCAS DEL SOL', 1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 'acdf5099c6397d792cf5cf95a2b69686')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 248, 54, 'acdf5099c6397d792cf5cf95a2b69686')
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 13, 'F', 2, 0,1, 'A', 1, 1, 3, '30574066537', 'VIALMANI SA ', '', 'SAN ANDRES DE GILES', 1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, '115f5c33b24eb8e1e88e9a4746a42bb4')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 249, 14, '115f5c33b24eb8e1e88e9a4746a42bb4')
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 14, 'F', 2, 0,1, 'A', 1, 1, 3, '30715262149', 'VIALMANI UT ', '', 'CAPITAN SARMIENTO', 1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, '8ba561498931dcf812879c067fe910ff')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 250, 23, '8ba561498931dcf812879c067fe910ff')
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-11', 22, 'F', 2, 0,1, 'B', 1, 1, 2, '30999284031', 'MUNICIPALIDAD DE CAMPANA ', '', 'CAMPANA', 1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, '4244d006621a089ed8cc48c5ac579336')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 251, 71, '4244d006621a089ed8cc48c5ac579336')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 251, 76, '4244d006621a089ed8cc48c5ac579336')
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-16', 73, 'F', 2, 0,1, 'A', 1, 1, 3, '23047460379', 'MARINO DOMINGO HECTOR ', 'SAAVEDRA 131', '', 1, 100.00, 82.64, 0.00, 0.00, 0.00, 17.36, 0.00, 0.00, 0.00, '6f74fb6b8c79930aeda08df5dcbe4897')
+2017-08-24 10:13:44 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (1.00, 1, 'ALQUILER DE BAÑO PORTATIL PARA OBRA', 21, 100.00, 252, '6f74fb6b8c79930aeda08df5dcbe4897')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 252, 111, '6f74fb6b8c79930aeda08df5dcbe4897')
+2017-08-24 10:13:44 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-18', 1, 'F', 2, 0,1, 'B', 1, 1, 1, '0', 'CONSUMIDOR FINAL ', '', '', 1, 0.00, 0.00, 0.00, 0.83, 0.00, 0.00, 0.00, 0.17, 0.00, '91ae63ce905e437801fe6b91890ce767')
+2017-08-24 10:13:44 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (1.00, 2, 'SERVICIO DE LIMPIEZA prueba', 21, 1.00, 253, '91ae63ce905e437801fe6b91890ce767')
+2017-08-24 10:13:44 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 253, 112, '91ae63ce905e437801fe6b91890ce767')
+2017-08-24 10:14:16 delete from adm_fis where id=243
+2017-08-24 10:14:16 delete from adm_fis_det where idfis=243
+2017-08-24 10:14:16 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:14:16', 1, 1, 'Comprobantes', 'Elimina Comprobante: 243 | F | B | 2 | 0')
+2017-08-24 10:14:19 delete from adm_fis where id=251
+2017-08-24 10:14:19 delete from adm_fis_det where idfis=251
+2017-08-24 10:14:19 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:14:19', 1, 1, 'Comprobantes', 'Elimina Comprobante: 251 | F | B | 2 | 0')
+2017-08-24 10:14:25 delete from adm_fis where id=253
+2017-08-24 10:14:25 delete from adm_fis_det where idfis=253
+2017-08-24 10:14:25 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:14:25', 1, 1, 'Comprobantes', 'Elimina Comprobante: 253 | F | B | 2 | 0')
+2017-08-24 10:22:01 delete from adm_fis where id=235
+2017-08-24 10:22:01 delete from adm_fis_det where idfis=235
+2017-08-24 10:22:01 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:22:01', 1, 1, 'Comprobantes', 'Elimina Comprobante: 235 | F | A | 2 | 0')
+2017-08-24 10:22:05 delete from adm_fis where id=236
+2017-08-24 10:22:05 delete from adm_fis_det where idfis=236
+2017-08-24 10:22:05 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:22:05', 1, 1, 'Comprobantes', 'Elimina Comprobante: 236 | F | A | 2 | 0')
+2017-08-24 10:22:07 delete from adm_fis where id=237
+2017-08-24 10:22:07 delete from adm_fis_det where idfis=237
+2017-08-24 10:22:07 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:22:07', 1, 1, 'Comprobantes', 'Elimina Comprobante: 237 | F | A | 2 | 0')
+2017-08-24 10:22:09 delete from adm_fis where id=238
+2017-08-24 10:22:09 delete from adm_fis_det where idfis=238
+2017-08-24 10:22:09 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:22:09', 1, 1, 'Comprobantes', 'Elimina Comprobante: 238 | F | A | 2 | 0')
+2017-08-24 10:22:11 delete from adm_fis where id=239
+2017-08-24 10:22:11 delete from adm_fis_det where idfis=239
+2017-08-24 10:22:11 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:22:11', 1, 1, 'Comprobantes', 'Elimina Comprobante: 239 | F | A | 2 | 0')
+2017-08-24 10:22:13 delete from adm_fis where id=240
+2017-08-24 10:22:13 delete from adm_fis_det where idfis=240
+2017-08-24 10:22:13 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:22:13', 1, 1, 'Comprobantes', 'Elimina Comprobante: 240 | F | A | 2 | 0')
+2017-08-24 10:22:15 delete from adm_fis where id=241
+2017-08-24 10:22:15 delete from adm_fis_det where idfis=241
+2017-08-24 10:22:15 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:22:15', 1, 1, 'Comprobantes', 'Elimina Comprobante: 241 | F | A | 2 | 0')
+2017-08-24 10:22:18 delete from adm_fis where id=242
+2017-08-24 10:22:18 delete from adm_fis_det where idfis=242
+2017-08-24 10:22:18 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:22:18', 1, 1, 'Comprobantes', 'Elimina Comprobante: 242 | F | A | 2 | 0')
+2017-08-24 10:22:21 delete from adm_fis where id=244
+2017-08-24 10:22:21 delete from adm_fis_det where idfis=244
+2017-08-24 10:22:21 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:22:21', 1, 1, 'Comprobantes', 'Elimina Comprobante: 244 | F | A | 2 | 0')
+2017-08-24 10:22:23 delete from adm_fis where id=245
+2017-08-24 10:22:23 delete from adm_fis_det where idfis=245
+2017-08-24 10:22:23 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:22:23', 1, 1, 'Comprobantes', 'Elimina Comprobante: 245 | F | A | 2 | 0')
+2017-08-24 10:22:25 delete from adm_fis where id=246
+2017-08-24 10:22:25 delete from adm_fis_det where idfis=246
+2017-08-24 10:22:25 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:22:25', 1, 1, 'Comprobantes', 'Elimina Comprobante: 246 | F | A | 2 | 0')
+2017-08-24 10:22:27 delete from adm_fis where id=247
+2017-08-24 10:22:27 delete from adm_fis_det where idfis=247
+2017-08-24 10:22:27 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:22:27', 1, 1, 'Comprobantes', 'Elimina Comprobante: 247 | F | A | 2 | 0')
+2017-08-24 10:22:29 delete from adm_fis where id=248
+2017-08-24 10:22:29 delete from adm_fis_det where idfis=248
+2017-08-24 10:22:29 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:22:29', 1, 1, 'Comprobantes', 'Elimina Comprobante: 248 | F | A | 2 | 0')
+2017-08-24 10:22:31 delete from adm_fis where id=249
+2017-08-24 10:22:31 delete from adm_fis_det where idfis=249
+2017-08-24 10:22:31 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:22:31', 1, 1, 'Comprobantes', 'Elimina Comprobante: 249 | F | A | 2 | 0')
+2017-08-24 10:22:37 delete from adm_fis where id=250
+2017-08-24 10:22:37 delete from adm_fis_det where idfis=250
+2017-08-24 10:22:37 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:22:37', 1, 1, 'Comprobantes', 'Elimina Comprobante: 250 | F | A | 2 | 0')
+2017-08-24 10:22:39 delete from adm_fis where id=252
+2017-08-24 10:22:39 delete from adm_fis_det where idfis=252
+2017-08-24 10:22:39 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:22:39', 1, 1, 'Comprobantes', 'Elimina Comprobante: 252 | F | A | 2 | 0')
+2017-08-24 10:22:49 update tmp_fis_det set cantidad=cantidad+2.00 where id=1
+2017-08-24 10:22:49 update tmp_fis_det set cantidad=cantidad+2.00 where id=3
+2017-08-24 10:22:49 update tmp_fis_det set cantidad=cantidad+2.00 where id=3
+2017-08-24 10:22:49 update tmp_fis_det set cantidad=cantidad+2.00 where id=3
+2017-08-24 10:22:49 update tmp_fis_det set cantidad=cantidad+2.00 where id=3
+2017-08-24 10:22:49 update tmp_fis set total=38970, netocf21=0, netori21=32206.611570248, ivacf21=0, ivari21=6763.3884297521 where id=1
+2017-08-24 10:22:49 update tmp_fis set total=24310, netocf21=0, netori21=20090.909090909, ivacf21=0, ivari21=4219.0909090909 where id=2
+2017-08-24 10:22:49 update tmp_fis set total=680, netocf21=0, netori21=561.98347107438, ivacf21=0, ivari21=118.01652892562 where id=3
+2017-08-24 10:22:49 update tmp_fis set total=4800, netocf21=0, netori21=3966.9421487603, ivacf21=0, ivari21=833.05785123967 where id=4
+2017-08-24 10:22:49 update tmp_fis set total=7000, netocf21=0, netori21=5785.1239669421, ivacf21=0, ivari21=1214.8760330579 where id=5
+2017-08-24 10:22:49 update tmp_fis set total=0, netocf21=0, netori21=0, ivacf21=0, ivari21=0 where id=6
+2017-08-24 10:22:49 update tmp_fis set total=8000, netocf21=0, netori21=6611.5702479339, ivacf21=0, ivari21=1388.4297520661 where id=7
+2017-08-24 10:22:49 update tmp_fis set total=3170, netocf21=0, netori21=2619.8347107438, ivacf21=0, ivari21=550.1652892562 where id=8
+2017-08-24 10:22:49 update tmp_fis set total=0, netocf21=32727.272727273, netori21=0, ivacf21=6872.7272727273, ivari21=0 where id=9
+2017-08-24 10:22:49 update tmp_fis set total=0, netocf21=0, netori21=0, ivacf21=0, ivari21=0 where id=10
+2017-08-24 10:22:49 update tmp_fis set total=0, netocf21=0, netori21=0, ivacf21=0, ivari21=0 where id=11
+2017-08-24 10:22:49 update tmp_fis set total=0, netocf21=0, netori21=0, ivacf21=0, ivari21=0 where id=12
+2017-08-24 10:22:49 update tmp_fis set total=0, netocf21=0, netori21=0, ivacf21=0, ivari21=0 where id=13
+2017-08-24 10:22:49 update tmp_fis set total=0, netocf21=0, netori21=0, ivacf21=0, ivari21=0 where id=14
+2017-08-24 10:22:49 update tmp_fis set total=0, netocf21=0, netori21=0, ivacf21=0, ivari21=0 where id=15
+2017-08-24 10:22:49 update tmp_fis set total=0, netocf21=0, netori21=0, ivacf21=0, ivari21=0 where id=16
+2017-08-24 10:22:49 update tmp_fis set total=0, netocf21=0, netori21=0, ivacf21=0, ivari21=0 where id=17
+2017-08-24 10:22:49 update tmp_fis set total=100, netocf21=0, netori21=82.644628099174, ivacf21=0, ivari21=17.355371900826 where id=18
+2017-08-24 10:22:49 update tmp_fis set total=0, netocf21=0.82644628099174, netori21=0, ivacf21=0.17355371900826, ivari21=0 where id=19
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-04', 7, 'F', 2, 0,1, 'A', 1, 1, 3, '33715477799', 'CARTELLONE UTE ', '', 'RUTA Nº 7', 1, 38970.00, 32206.61, 0.00, 0.00, 0.00, 6763.39, 0.00, 0.00, 0.00, '5eb1a3adf99ef17068a311f40ec11109')
+2017-08-24 10:22:49 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (45.00, 1, 'ALQUILER DE BAÑO PORTATIL MES DE JULIO', 21, 650.00, 254, '5eb1a3adf99ef17068a311f40ec11109')
+2017-08-24 10:22:49 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (54.00, 2, 'SERVICIO DE LIMPIEZA 03/07/2017 VALE Nº1051', 21, 180.00, 254, '5eb1a3adf99ef17068a311f40ec11109')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 254, 28, '5eb1a3adf99ef17068a311f40ec11109')
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-04', 15, 'F', 2, 0,1, 'A', 1, 1, 3, '33627794369', 'EUROAMERICA SA ', '', 'CAMPANA', 1, 24310.00, 20090.91, 0.00, 0.00, 0.00, 4219.09, 0.00, 0.00, 0.00, '873124b69d7db133aa5621d7b176d229')
+2017-08-24 10:22:49 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (143.00, 2, 'SERVICIO DE LIMPIEZA 05/07/2017 VALE Nº1076', 21, 170.00, 255, '873124b69d7db133aa5621d7b176d229')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 255, 33, '873124b69d7db133aa5621d7b176d229')
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 9, 'F', 2, 0,1, 'A', 1, 1, 3, '30712553401', 'GUERCI Y ASOCIADOS SRL ', '', 'CARMEN DE ARECO', 1, 680.00, 561.98, 0.00, 0.00, 0.00, 118.02, 0.00, 0.00, 0.00, '0e17528ac3ebeb75c43218f4fc0c732f')
+2017-08-24 10:22:49 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (1.00, 1, 'ALQUILER DE BAÑO PORTATIL MES DE AGOSTO', 21, 680.00, 256, '0e17528ac3ebeb75c43218f4fc0c732f')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 256, 20, '0e17528ac3ebeb75c43218f4fc0c732f')
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 18, 'F', 2, 0,1, 'A', 1, 1, 3, '30708764481', 'HORMETAL SA ', '', 'PAPELERA SAN ANDRES DE GILES', 1, 4800.00, 3966.94, 0.00, 0.00, 0.00, 833.06, 0.00, 0.00, 0.00, '6688a9f7a655866439ca789edf5d2ac1')
+2017-08-24 10:22:49 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (30.00, 2, 'SERVICIO DE LIMPIEZA 03/07/2017 VALE Nº1058', 21, 160.00, 257, '6688a9f7a655866439ca789edf5d2ac1')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 257, 16, '6688a9f7a655866439ca789edf5d2ac1')
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 6, 'F', 2, 0,1, 'A', 1, 1, 3, '30568457451', 'SACDE SA ', '', 'SAN ANTONIO DE ARECO', 1, 7000.00, 5785.12, 0.00, 0.00, 0.00, 1214.88, 0.00, 0.00, 0.00, '93c64ba4ec116263fbb961868882313f')
+2017-08-24 10:22:49 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (7.00, 1, 'ALQUILER DE BAÑO PORTATIL EN TRAILER', 21, 1000.00, 258, '93c64ba4ec116263fbb961868882313f')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 258, 24, '93c64ba4ec116263fbb961868882313f')
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 44, 'F', 2, 0,1, 'A', 1, 1, 3, '30643445510', 'LINCE SEGURIDAD ', '', 'RUTA Nº 8', 1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 'd1ce91624aff9839eb91d9d19991a36b')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 259, 19, 'd1ce91624aff9839eb91d9d19991a36b')
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 16, 'F', 2, 0,1, 'A', 1, 1, 3, '30590203056', 'PAPELERA SAN ANDRES DE GILES SA ', '', 'SAN ANDRES DE GILES', 1, 8000.00, 6611.57, 0.00, 0.00, 0.00, 1388.43, 0.00, 0.00, 0.00, 'fadc21967211b892059a589bd565845b')
+2017-08-24 10:22:49 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (32.00, 2, 'SERVICIO DE LIMPIEZA 03/07/2017 VALE Nº1059', 21, 250.00, 260, 'fadc21967211b892059a589bd565845b')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 260, 15, 'fadc21967211b892059a589bd565845b')
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 21, 'F', 2, 0,1, 'A', 1, 1, 3, '30709107123', 'POSE SA ', '', 'ARRECIFES', 1, 3170.00, 2619.83, 0.00, 0.00, 0.00, 550.17, 0.00, 0.00, 0.00, '6973a3d6c9550dc9f4e761718672e44c')
+2017-08-24 10:22:49 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (2.00, 1, 'ALQUILER DE BAÑO PORTATIL MES DE JULIO', 21, 600.00, 261, '6973a3d6c9550dc9f4e761718672e44c')
+2017-08-24 10:22:49 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (1.00, 1, 'ALQUILER DE BAÑO PORTATIL ALQUILER EN TRAILER', 21, 850.00, 261, '6973a3d6c9550dc9f4e761718672e44c')
+2017-08-24 10:22:49 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (8.00, 2, 'SERVICIO DE LIMPIEZA 06/07/2017 VALE Nº1093', 21, 140.00, 261, '6973a3d6c9550dc9f4e761718672e44c')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 261, 17, '6973a3d6c9550dc9f4e761718672e44c')
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 23, 'F', 2, 0,1, 'B', 1, 1, 2, '30999000947', 'MUNICIPALIDAD DE LUJAN ', '', 'LUJAN', 1, 0.00, 0.00, 0.00, 32727.27, 0.00, 0.00, 0.00, 6872.73, 0.00, '17867def18867fa2e0a55c9ddb44d30c')
+2017-08-24 10:22:49 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (33.00, 1, 'ALQUILER DE BAÑO PORTATIL PARA EVENTO PEREGRINACION BOLIVIANA', 21, 1200.00, 262, '17867def18867fa2e0a55c9ddb44d30c')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 262, 78, '17867def18867fa2e0a55c9ddb44d30c')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 262, 81, '17867def18867fa2e0a55c9ddb44d30c')
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 17, 'F', 2, 0,1, 'A', 1, 1, 3, '30502888419', 'SUPERCEMENTO SAIC ', '', 'RUTA Nº 8', 1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, '54b451627534069ed3152cf528313b61')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 263, 64, '54b451627534069ed3152cf528313b61')
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 54, 'F', 2, 0,1, 'A', 1, 1, 3, '33518206759', 'TERZA SA ', '', 'PARQUE IND. PILAR', 1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, '7ce48e56eb3304c155852807f4579377')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 264, 49, '7ce48e56eb3304c155852807f4579377')
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 68, 'F', 2, 0,1, 'A', 1, 1, 3, '33518206759', 'TERZA SA ', 'SAN A. DE ARECO', 'RAMIREZ Y FELIPE LLAMOSAS', 1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, '78dcf924deb24767e46c3f2b2ad06ea5')
+2017-08-24 10:22:49 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (1.00, 1, 'ALQUILER DE BAÑO PORTATIL PARA OBRA', 21, 0.00, 265, '78dcf924deb24767e46c3f2b2ad06ea5')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 265, 74, '78dcf924deb24767e46c3f2b2ad06ea5')
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 12, 'F', 2, 0,1, 'A', 1, 1, 3, '33518206759', 'TERZA SA ', '', 'SAN ANTONIO DE ARECO', 1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 'c0ee656efffc1a929d4bb4d6d6c474df')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 266, 25, 'c0ee656efffc1a929d4bb4d6d6c474df')
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 10, 'F', 2, 0,1, 'A', 1, 1, 3, '30711269963', 'VERELLEN HNOS. SRL ', '', 'COMARCAS DEL SOL', 1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 'acdf5099c6397d792cf5cf95a2b69686')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 267, 54, 'acdf5099c6397d792cf5cf95a2b69686')
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 13, 'F', 2, 0,1, 'A', 1, 1, 3, '30574066537', 'VIALMANI SA ', '', 'SAN ANDRES DE GILES', 1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, '115f5c33b24eb8e1e88e9a4746a42bb4')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 268, 14, '115f5c33b24eb8e1e88e9a4746a42bb4')
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-08', 14, 'F', 2, 0,1, 'A', 1, 1, 3, '30715262149', 'VIALMANI UT ', '', 'CAPITAN SARMIENTO', 1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, '8ba561498931dcf812879c067fe910ff')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 269, 23, '8ba561498931dcf812879c067fe910ff')
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-11', 22, 'F', 2, 0,1, 'B', 1, 1, 2, '30999284031', 'MUNICIPALIDAD DE CAMPANA ', '', 'CAMPANA', 1, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, 0.00, '4244d006621a089ed8cc48c5ac579336')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 270, 71, '4244d006621a089ed8cc48c5ac579336')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 270, 76, '4244d006621a089ed8cc48c5ac579336')
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-16', 73, 'F', 2, 0,1, 'A', 1, 1, 3, '23047460379', 'MARINO DOMINGO HECTOR ', 'SAAVEDRA 131', '', 1, 100.00, 82.64, 0.00, 0.00, 0.00, 17.36, 0.00, 0.00, 0.00, '6f74fb6b8c79930aeda08df5dcbe4897')
+2017-08-24 10:22:49 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (1.00, 1, 'ALQUILER DE BAÑO PORTATIL PARA OBRA', 21, 100.00, 271, '6f74fb6b8c79930aeda08df5dcbe4897')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 271, 111, '6f74fb6b8c79930aeda08df5dcbe4897')
+2017-08-24 10:22:49 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-18', 1, 'F', 2, 0,1, 'B', 1, 1, 1, '0', 'CONSUMIDOR FINAL ', '', '', 1, 0.00, 0.00, 0.00, 0.83, 0.00, 0.00, 0.00, 0.17, 0.00, '91ae63ce905e437801fe6b91890ce767')
+2017-08-24 10:22:49 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (1.00, 2, 'SERVICIO DE LIMPIEZA prueba', 21, 1.00, 272, '91ae63ce905e437801fe6b91890ce767')
+2017-08-24 10:22:49 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 272, 112, '91ae63ce905e437801fe6b91890ce767')
+2017-08-24 10:25:40 delete from adm_fis where id=254
+2017-08-24 10:25:40 delete from adm_fis_det where idfis=254
+2017-08-24 10:25:40 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:25:40', 1, 1, 'Comprobantes', 'Elimina Comprobante: 254 | F | A | 2 | 0')
+2017-08-24 10:25:42 delete from adm_fis where id=255
+2017-08-24 10:25:42 delete from adm_fis_det where idfis=255
+2017-08-24 10:25:42 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:25:42', 1, 1, 'Comprobantes', 'Elimina Comprobante: 255 | F | A | 2 | 0')
+2017-08-24 10:25:45 delete from adm_fis where id=256
+2017-08-24 10:25:45 delete from adm_fis_det where idfis=256
+2017-08-24 10:25:45 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:25:45', 1, 1, 'Comprobantes', 'Elimina Comprobante: 256 | F | A | 2 | 0')
+2017-08-24 10:25:47 delete from adm_fis where id=257
+2017-08-24 10:25:47 delete from adm_fis_det where idfis=257
+2017-08-24 10:25:47 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:25:47', 1, 1, 'Comprobantes', 'Elimina Comprobante: 257 | F | A | 2 | 0')
+2017-08-24 10:25:50 delete from adm_fis where id=258
+2017-08-24 10:25:50 delete from adm_fis_det where idfis=258
+2017-08-24 10:25:50 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:25:50', 1, 1, 'Comprobantes', 'Elimina Comprobante: 258 | F | A | 2 | 0')
+2017-08-24 10:25:53 delete from adm_fis where id=259
+2017-08-24 10:25:53 delete from adm_fis_det where idfis=259
+2017-08-24 10:25:53 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:25:53', 1, 1, 'Comprobantes', 'Elimina Comprobante: 259 | F | A | 2 | 0')
+2017-08-24 10:25:55 delete from adm_fis where id=260
+2017-08-24 10:25:55 delete from adm_fis_det where idfis=260
+2017-08-24 10:25:55 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:25:55', 1, 1, 'Comprobantes', 'Elimina Comprobante: 260 | F | A | 2 | 0')
+2017-08-24 10:25:57 delete from adm_fis where id=261
+2017-08-24 10:25:57 delete from adm_fis_det where idfis=261
+2017-08-24 10:25:57 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:25:57', 1, 1, 'Comprobantes', 'Elimina Comprobante: 261 | F | A | 2 | 0')
+2017-08-24 10:25:59 delete from adm_fis where id=263
+2017-08-24 10:25:59 delete from adm_fis_det where idfis=263
+2017-08-24 10:25:59 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:25:59', 1, 1, 'Comprobantes', 'Elimina Comprobante: 263 | F | A | 2 | 0')
+2017-08-24 10:26:03 delete from adm_fis where id=264
+2017-08-24 10:26:03 delete from adm_fis_det where idfis=264
+2017-08-24 10:26:03 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:26:03', 1, 1, 'Comprobantes', 'Elimina Comprobante: 264 | F | A | 2 | 0')
+2017-08-24 10:26:05 delete from adm_fis where id=265
+2017-08-24 10:26:05 delete from adm_fis_det where idfis=265
+2017-08-24 10:26:05 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:26:05', 1, 1, 'Comprobantes', 'Elimina Comprobante: 265 | F | A | 2 | 0')
+2017-08-24 10:26:07 delete from adm_fis where id=266
+2017-08-24 10:26:07 delete from adm_fis_det where idfis=266
+2017-08-24 10:26:07 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:26:07', 1, 1, 'Comprobantes', 'Elimina Comprobante: 266 | F | A | 2 | 0')
+2017-08-24 10:26:09 delete from adm_fis where id=267
+2017-08-24 10:26:09 delete from adm_fis_det where idfis=267
+2017-08-24 10:26:09 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:26:09', 1, 1, 'Comprobantes', 'Elimina Comprobante: 267 | F | A | 2 | 0')
+2017-08-24 10:26:11 delete from adm_fis where id=268
+2017-08-24 10:26:11 delete from adm_fis_det where idfis=268
+2017-08-24 10:26:11 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:26:11', 1, 1, 'Comprobantes', 'Elimina Comprobante: 268 | F | A | 2 | 0')
+2017-08-24 10:26:14 delete from adm_fis where id=269
+2017-08-24 10:26:14 delete from adm_fis_det where idfis=269
+2017-08-24 10:26:14 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:26:14', 1, 1, 'Comprobantes', 'Elimina Comprobante: 269 | F | A | 2 | 0')
+2017-08-24 10:26:16 delete from adm_fis where id=271
+2017-08-24 10:26:16 delete from adm_fis_det where idfis=271
+2017-08-24 10:26:16 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:26:16', 1, 1, 'Comprobantes', 'Elimina Comprobante: 271 | F | A | 2 | 0')
+2017-08-24 10:27:50 insert into tmp_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, clave) values ('2017-08-24', 15, 'F', 2, 0, 1, 'A', 1, 1, 3, '33627794369', 'EUROAMERICA SA ', '', 'CAMPANA', 1, '4e9442a02853bbf457b2eaf8d3b86b90')
+2017-08-24 10:27:50 insert into tmp_fis_cped (centro, clave, idped) values (1, '4e9442a02853bbf457b2eaf8d3b86b90', 33)
+2017-08-24 10:27:50 insert into tmp_fis_det (cantidad, idart, detalle, precio, alicuota, idfis, centro) values (2.00, 1, 'ALQUILER DE BAÑO PORTATIL MES DE JULIO', 650.00, 21, 1, 1)
+2017-08-24 10:27:50 insert into tmp_fis_det (cantidad, idart, detalle, precio, alicuota, idfis, centro) values (2.00, 2, 'SERVICIO DE LIMPIEZA 05/07/2017 VALE Nº1076', 170.00, 21, 1, 1)
+2017-08-24 10:27:50 update tmp_fis_det set cantidad=cantidad+2.00 where id=2
+2017-08-24 10:27:50 update tmp_fis_det set cantidad=cantidad+2.00 where id=2
+2017-08-24 10:27:50 update tmp_fis_det set cantidad=cantidad+2.00 where id=2
+2017-08-24 10:27:50 update tmp_fis set total=2660, netocf21=0, netori21=2198.347107438, ivacf21=0, ivari21=461.65289256198 where id=1
+2017-08-24 10:27:50 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-24', 15, 'F', 2, 0,1, 'A', 1, 1, 3, '33627794369', 'EUROAMERICA SA ', '', 'CAMPANA', 1, 2660.00, 2198.35, 0.00, 0.00, 0.00, 461.65, 0.00, 0.00, 0.00, '4e9442a02853bbf457b2eaf8d3b86b90')
+2017-08-24 10:27:50 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (2.00, 1, 'ALQUILER DE BAÑO PORTATIL MES DE JULIO', 21, 650.00, 273, '4e9442a02853bbf457b2eaf8d3b86b90')
+2017-08-24 10:27:50 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (8.00, 2, 'SERVICIO DE LIMPIEZA 05/07/2017 VALE Nº1076', 21, 170.00, 273, '4e9442a02853bbf457b2eaf8d3b86b90')
+2017-08-24 10:27:50 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 273, 33, '4e9442a02853bbf457b2eaf8d3b86b90')
+2017-08-24 10:28:17 update adm_fis set fecha='2017-08-24', numero=17, numerocae=67347785456040, fechacae='2017-09-03', error='Se agrega comprobante F-C-0002-00000017 CAE: 67347785456040 | Fecha CAE: 2017-09-03' where id=273
+2017-08-24 10:28:17 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:28:17', 1, 1, 'Fiscal', 'Se agrega comprobante F-C-0002-00000017 CAE: 67347785456040 | Fecha CAE: 2017-09-03')
+2017-08-24 10:28:27 delete from adm_fis where id=262
+2017-08-24 10:28:27 delete from adm_fis_det where idfis=262
+2017-08-24 10:28:27 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:28:27', 1, 1, 'Comprobantes', 'Elimina Comprobante: 262 | F | B | 2 | 0')
+2017-08-24 10:28:32 delete from adm_fis where id=270
+2017-08-24 10:28:32 delete from adm_fis_det where idfis=270
+2017-08-24 10:28:32 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:28:32', 1, 1, 'Comprobantes', 'Elimina Comprobante: 270 | F | B | 2 | 0')
+2017-08-24 10:28:35 delete from adm_fis where id=272
+2017-08-24 10:28:35 delete from adm_fis_det where idfis=272
+2017-08-24 10:28:35 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:28:35', 1, 1, 'Comprobantes', 'Elimina Comprobante: 272 | F | B | 2 | 0')
+2017-08-24 10:35:12 insert into tmp_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, clave) values ('2017-08-24', 9, 'F', 2, 0, 1, 'A', 1, 1, 3, '30712553401', 'GUERCI Y ASOCIADOS SRL ', '', 'CARMEN DE ARECO', 1, 'd49db8a0174ec22318476373d870af96')
+2017-08-24 10:35:12 insert into tmp_fis_cped (centro, clave, idped) values (1, 'd49db8a0174ec22318476373d870af96', 20)
+2017-08-24 10:35:12 insert into tmp_fis_det (cantidad, idart, detalle, precio, alicuota, idfis, centro) values (1.00, 1, 'ALQUILER DE BAÑO PORTATIL MES DE AGOSTO', 680.00, 21, 2, 1)
+2017-08-24 10:35:12 update tmp_fis_det set cantidad=cantidad+1.00 where id=2
+2017-08-24 10:35:12 update tmp_fis_det set cantidad=cantidad+1.00 where id=2
+2017-08-24 10:35:12 update tmp_fis set total=3000, netocf21=0, netori21=2479.3388429752, ivacf21=0, ivari21=520.66115702479 where id=1
+2017-08-24 10:35:12 update tmp_fis set total=680, netocf21=0, netori21=561.98347107438, ivacf21=0, ivari21=118.01652892562 where id=2
+2017-08-24 10:35:12 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-24', 15, 'F', 2, 0,1, 'A', 1, 1, 3, '33627794369', 'EUROAMERICA SA ', '', 'CAMPANA', 1, 3000.00, 2479.34, 0.00, 0.00, 0.00, 520.66, 0.00, 0.00, 0.00, '4e9442a02853bbf457b2eaf8d3b86b90')
+2017-08-24 10:35:12 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (2.00, 1, 'ALQUILER DE BAÑO PORTATIL MES DE JULIO', 21, 650.00, 274, '4e9442a02853bbf457b2eaf8d3b86b90')
+2017-08-24 10:35:12 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (10.00, 2, 'SERVICIO DE LIMPIEZA 05/07/2017 VALE Nº1076', 21, 170.00, 274, '4e9442a02853bbf457b2eaf8d3b86b90')
+2017-08-24 10:35:12 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 274, 33, '4e9442a02853bbf457b2eaf8d3b86b90')
+2017-08-24 10:35:12 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-24', 9, 'F', 2, 0,1, 'A', 1, 1, 3, '30712553401', 'GUERCI Y ASOCIADOS SRL ', '', 'CARMEN DE ARECO', 1, 680.00, 561.98, 0.00, 0.00, 0.00, 118.02, 0.00, 0.00, 0.00, 'd49db8a0174ec22318476373d870af96')
+2017-08-24 10:35:12 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (1.00, 1, 'ALQUILER DE BAÑO PORTATIL MES DE AGOSTO', 21, 680.00, 275, 'd49db8a0174ec22318476373d870af96')
+2017-08-24 10:35:12 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 275, 20, 'd49db8a0174ec22318476373d870af96')
+2017-08-24 10:35:45 delete from adm_fis where id=274
+2017-08-24 10:35:45 delete from adm_fis_det where idfis=274
+2017-08-24 10:35:45 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:35:45', 3, 1, 'Comprobantes', 'Elimina Comprobante: 274 | F | A | 2 | 0')
+2017-08-24 10:37:19 delete from adm_fis where id=275
+2017-08-24 10:37:19 delete from adm_fis_det where idfis=275
+2017-08-24 10:37:19 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:37:19', 1, 1, 'Comprobantes', 'Elimina Comprobante: 275 | F | A | 2 | 0')
+2017-08-24 10:37:37 update tmp_fis_det set cantidad=cantidad+1.00 where id=3
+2017-08-24 10:37:37 update tmp_fis_det set cantidad=cantidad+1.00 where id=2
+2017-08-24 10:37:37 update tmp_fis_det set cantidad=cantidad+1.00 where id=2
+2017-08-24 10:37:37 update tmp_fis set total=3340, netocf21=0, netori21=2760.3305785124, ivacf21=0, ivari21=579.6694214876 where id=1
+2017-08-24 10:37:37 update tmp_fis set total=1360, netocf21=0, netori21=1123.9669421488, ivacf21=0, ivari21=236.03305785124 where id=2
+2017-08-24 10:37:37 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-24', 15, 'F', 2, 0,1, 'A', 1, 1, 3, '33627794369', 'EUROAMERICA SA ', '', 'CAMPANA', 1, 3340.00, 2760.33, 0.00, 0.00, 0.00, 579.67, 0.00, 0.00, 0.00, '4e9442a02853bbf457b2eaf8d3b86b90')
+2017-08-24 10:37:37 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (2.00, 1, 'ALQUILER DE BAÑO PORTATIL MES DE JULIO', 21, 650.00, 276, '4e9442a02853bbf457b2eaf8d3b86b90')
+2017-08-24 10:37:37 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (12.00, 2, 'SERVICIO DE LIMPIEZA 05/07/2017 VALE Nº1076', 21, 170.00, 276, '4e9442a02853bbf457b2eaf8d3b86b90')
+2017-08-24 10:37:37 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 276, 33, '4e9442a02853bbf457b2eaf8d3b86b90')
+2017-08-24 10:37:37 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-24', 9, 'F', 2, 0,1, 'A', 1, 1, 3, '30712553401', 'GUERCI Y ASOCIADOS SRL ', '', 'CARMEN DE ARECO', 1, 1360.00, 1123.97, 0.00, 0.00, 0.00, 236.03, 0.00, 0.00, 0.00, 'd49db8a0174ec22318476373d870af96')
+2017-08-24 10:37:37 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (2.00, 1, 'ALQUILER DE BAÑO PORTATIL MES DE AGOSTO', 21, 680.00, 277, 'd49db8a0174ec22318476373d870af96')
+2017-08-24 10:37:37 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 277, 20, 'd49db8a0174ec22318476373d870af96')
+2017-08-24 10:37:58 delete from adm_fis where id=276
+2017-08-24 10:37:58 delete from adm_fis_det where idfis=276
+2017-08-24 10:37:58 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:37:58', 1, 1, 'Comprobantes', 'Elimina Comprobante: 276 | F | A | 2 | 0')
+2017-08-24 10:38:00 delete from adm_fis where id=277
+2017-08-24 10:38:00 delete from adm_fis_det where idfis=277
+2017-08-24 10:38:00 insert into auditoria (fecha, usuario, centro, modulo, descripcion) values ('2017-08-24 10:38:00', 1, 1, 'Comprobantes', 'Elimina Comprobante: 277 | F | A | 2 | 0')
+2017-08-24 10:41:29 update tmp_fis_det set cantidad=cantidad+1.00 where id=3
+2017-08-24 10:41:29 update tmp_fis_det set cantidad=cantidad+1.00 where id=2
+2017-08-24 10:41:29 update tmp_fis_det set cantidad=cantidad+1.00 where id=2
+2017-08-24 10:41:29 update tmp_fis set total=3680, netocf21=0, netori21=3041.3223140496, ivacf21=0, ivari21=638.67768595041 where id=1
+2017-08-24 10:41:29 update tmp_fis set total=2040, netocf21=0, netori21=1685.9504132231, ivacf21=0, ivari21=354.04958677686 where id=2
+2017-08-24 10:41:29 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-24', 15, 'F', 2, 0,1, 'A', 1, 1, 3, '33627794369', 'EUROAMERICA SA ', '', 'CAMPANA', 1, 3680.00, 3041.32, 0.00, 0.00, 0.00, 638.68, 0.00, 0.00, 0.00, '4e9442a02853bbf457b2eaf8d3b86b90')
+2017-08-24 10:41:29 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (2.00, 1, 'ALQUILER DE BAÑO PORTATIL MES DE JULIO', 21, 650.00, 278, '4e9442a02853bbf457b2eaf8d3b86b90')
+2017-08-24 10:41:29 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (14.00, 2, 'SERVICIO DE LIMPIEZA 05/07/2017 VALE Nº1076', 21, 170.00, 278, '4e9442a02853bbf457b2eaf8d3b86b90')
+2017-08-24 10:41:29 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 278, 33, '4e9442a02853bbf457b2eaf8d3b86b90')
+2017-08-24 10:41:29 insert into adm_fis (fecha, idcli, tipo, ptovta, numero, centro, letra, imprimir, tipopago, condicioniva, nrocuit, cliente, direccion, ciudad, idcuit, total, netori21, netori10, netocf21, netocf10, ivari21, ivari10, ivacf21, ivacf10, clave) values ('2017-08-24', 9, 'F', 2, 0,1, 'A', 1, 1, 3, '30712553401', 'GUERCI Y ASOCIADOS SRL ', '', 'CARMEN DE ARECO', 1, 2040.00, 1685.95, 0.00, 0.00, 0.00, 354.05, 0.00, 0.00, 0.00, 'd49db8a0174ec22318476373d870af96')
+2017-08-24 10:41:29 insert into adm_fis_det (cantidad, idart, detalle, alicuota, precio, idfis, clave) values (3.00, 1, 'ALQUILER DE BAÑO PORTATIL MES DE AGOSTO', 21, 680.00, 279, 'd49db8a0174ec22318476373d870af96')
+2017-08-24 10:41:29 insert into adm_fis_cped (centro, idfis, idped, clave) values (1, 279, 20, 'd49db8a0174ec22318476373d870af96')

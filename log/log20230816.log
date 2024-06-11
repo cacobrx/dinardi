@@ -1,0 +1,29 @@
+2023-08-16 11:34:41 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-08-16 11:34:41', 1, 1, 'Login Sistema', 'Ingreso al sistema', 0)
+2023-08-16 13:57:51 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-08-16 13:57:51', 1, 1, 'Login Sistema', 'Ingreso al sistema', 0)
+2023-08-16 14:22:22 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-08-16 14:22:22', 1, 1, 'PROVEEDORES', 'Modifica Proveedor: LA MILLA S.R.L. ', 0)
+2023-08-16 14:22:22 update adm_prv set nombre='', apellido='LA MILLA S.R.L.', direccion='RODO 6595', ciudad='BS.AS.', telefono='', cuit='30583007632', cuenta=83, retencioniibb=0.40, condiva=3, observaciones='', email='', tipo=1, codigodinardi=50, expganancia=0, facturam=0, establecimiento1=0, establecimiento2=0, establecimiento3=0, fechamod='2023-08-16 14:22:22' where id=45
+2023-08-16 14:22:22 update adm_prv set paises='|8|2|4|' where id=45
+2023-08-16 15:10:31 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-08-16 15:10:31', 1, 1, 'Login Sistema', 'Ingreso al sistema', 0)
+2023-08-16 15:26:17 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-08-16 15:26:17', 1, 1, 'Login Sistema', 'Ingreso al sistema', 0)
+2023-08-16 17:26:07 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-08-16 17:26:07', 1, 1, 'Login Sistema', 'Ingreso al sistema', 0)
+2023-08-16 18:50:40 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-08-16 18:50:40', 1, 1, 'Login Sistema', 'Ingreso al sistema', 0)
+2023-08-16 18:59:28 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-08-16 18:59:28', 1, 1, 'Productos', 'Modifica Productos: 3 | RIÑÓN', 0)
+2023-08-16 19:00:01 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-08-16 19:00:01', 1, 1, 'Productos', 'Modifica Productos: 3 | RIÑÓN', 0)
+2023-08-16 19:00:26 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-08-16 19:00:26', 1, 1, 'Productos', 'Modifica Productos: 3 | RIÑÓN', 0)
+2023-08-16 19:00:26 update adm_art set descripcion='RIÑÓN', precio='0.00', rubro=1, codigodinardi=3, fechamod='2023:08:16 19:00:26', envasado=0, cantidad=0.00, tipoenvalaje=1, elaborado=0 where id=3
+2023-08-16 19:00:47 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-08-16 19:00:47', 1, 1, 'Productos', 'Modifica Productos: 19 | GAÑOTE', 0)
+2023-08-16 19:00:47 update adm_art set descripcion='GAÑOTE', precio='0.00', rubro=1, codigodinardi=19, fechamod='2023:08:16 19:00:47', envasado=0, cantidad=0.00, tipoenvalaje=1, elaborado=0 where id=19
+2023-08-16 19:00:58 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-08-16 19:00:58', 1, 1, 'Productos', 'Modifica Productos: 25 | RIÑON SIN PIEL', 0)
+2023-08-16 19:00:58 update adm_art set descripcion='RIÑON SIN PIEL', precio='0.00', rubro=1, codigodinardi=25, fechamod='2023:08:16 19:00:58', envasado=0, cantidad=0.00, tipoenvalaje=1, elaborado=0 where id=25
+2023-08-16 19:01:45 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-08-16 19:01:45', 1, 1, 'Articulos de Venta', 'Modifica Articulos de Venta: [19]', 0)
+2023-08-16 19:01:45 update adm_prd set descripcion='GAÑOTE', precioventa='0.00', rubro=1, unidad=1, unidadxanimal=0.00, kilosxanimal=0.00, presentacion=1, codigoproducto=19, fechamod='2023-08-16 19:01:45', envasado=0, elaborado=0, colorcamara='#000000', colorletra='#000000' where id=19
+2023-08-16 19:01:45 delete from adm_ubi where idart=19
+2023-08-16 19:02:05 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-08-16 19:02:05', 1, 1, 'Articulos de Venta', 'Modifica Articulos de Venta: [19]', 0)
+2023-08-16 19:02:05 update adm_prd set descripcion='GAÑOTE', precioventa='0.00', rubro=1, unidad=1, unidadxanimal=0.00, kilosxanimal=0.00, presentacion=1, codigoproducto=19, fechamod='2023-08-16 19:02:05', envasado=0, elaborado=0, colorcamara='#fafafa', colorletra='#000000' where id=19
+2023-08-16 19:02:05 delete from adm_ubi where idart=19
+2023-08-16 19:02:29 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-08-16 19:02:29', 1, 1, 'Productos', 'Modifica Productos: 19 | GAÑOTEs', 0)
+2023-08-16 19:02:29 update adm_art set descripcion='GAÑOTEs', precio='0.00', rubro=1, codigodinardi=19, fechamod='2023:08:16 19:02:29', envasado=0, cantidad=0.00, tipoenvalaje=1, elaborado=0 where id=19
+2023-08-16 19:03:33 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-08-16 19:03:33', 1, 1, 'Productos', 'Modifica Productos: 19 | GAÑOTE', 0)
+2023-08-16 19:03:33 update adm_art set descripcion='GAÑOTE', precio='0.00', rubro=1, codigodinardi=19, fechamod='2023:08:16 19:03:33', envasado=0, cantidad=0.00, tipoenvalaje=1, elaborado=0 where id=19
+2023-08-16 19:03:50 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2023-08-16 19:03:50', 1, 1, 'Productos', 'Modifica Productos: 119 | GAÑOTE', 0)
+2023-08-16 19:03:50 update adm_art set descripcion='GAÑOTE', precio='0.00', rubro=2, codigodinardi=119, fechamod='2023:08:16 19:03:50', envasado=0, cantidad=0.00, tipoenvalaje=1, elaborado=0 where id=84

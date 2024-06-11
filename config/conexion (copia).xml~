@@ -1,0 +1,8 @@
+<conexiondb>
+  <conexion>
+    <host>localhost</host>
+    <usuario>root</usuario>
+    <clave>17034049</clave>
+    <base>infodocta</base>
+  </conexion>
+</conexiondb>

@@ -1,0 +1,11 @@
+2024-04-12 11:14:56 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2024-04-12 11:14:56', 1, 1, 'Login Sistema', 'Ingreso al sistema', 0)
+2024-04-12 11:42:12 insert into auditoria (fecha, usuario, centro, modulo, descripcion, idcli) values ('2024-04-12 11:42:12', 1, 1, 'O.PAGO', 'Se agrega ORDEN DE PAGO: 73 | 2024-04-12 | 4803534.45 | 19320.40', 0)
+2024-04-12 11:42:12 insert into adm_opg1 (centro, fecha, concepto, idprv, importe, tipo, caja, retencioniibb, alicuotaret, retencionganancia, tiposer) values (1, '2024-04-12', 'Pago FC Factura A-7-7910 / ', 73, 4803534.45, 1, 1, 19320.40, 0.40, 92122.00, 1)
+2024-04-12 11:42:12 update adm_opg1 set numeroret=2315 where id=3696
+2024-04-12 11:42:12 update adm_opg1 set numeroretg=1542 where id=3696
+2024-04-12 11:42:12 delete from adm_opg2 where idop=3696
+2024-04-12 11:42:13 insert into adm_opg2 (centro, idop, detalle, importe, idcht) values (1, 3696, 'Efectivo', 4692092.05, 0)
+2024-04-12 11:42:13 insert into adm_opg2 (centro, idop, detalle, importe, idcht) values (1, 3696, 'Retención Ganancias', 92122.00, 0)
+2024-04-12 11:42:13 insert into adm_opg2 (centro, idop, detalle, importe, idcht) values (1, 3696, 'Retención IIBB', 19320.40, 0)
+2024-04-12 11:42:13 delete from adm_opg3 where idop=3696
+2024-04-12 11:42:13 update adm_com set importepag=totaltotal, idopg=3696 where id=16743
