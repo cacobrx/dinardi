@@ -44,8 +44,7 @@ if($primero==1) {
     $totalkilos=0;
 
 }
-            
-    
+
 
 ?>
 
